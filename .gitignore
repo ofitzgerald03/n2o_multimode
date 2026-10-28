@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated outputs (python run.py all)
+/output/
+.ruff_cache/
+
+# LXCat cross sections (not redistributable; see README)
+data/lxcat/*.txt

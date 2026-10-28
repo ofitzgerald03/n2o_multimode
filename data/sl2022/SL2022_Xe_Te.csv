@@ -1,0 +1,14 @@
+# Xe electron temperature against mdot/P, per mass-flow group (0.1, 0.2 mg/s).
+# Source: Sheppard, A. J. and Little, J. M. (2022), "Performance Analysis of an Electron Cyclotron Resonance Thruster with Various Propellants", J. Propul. Power 38(6), 998-1008, doi:10.2514/1.B38698, Fig. 7c, digitised.
+# Units: mdot_mg_s in mg/s; mdot_over_P_ug_per_J in ug/J; Te_eV in eV.
+mdot_mg_s,mdot_over_P_ug_per_J,Te_eV
+0.1, 0.5553232384137061, 12.12249289232648
+0.1, 0.7483637712048585, 12.843331591284981
+0.1, 1.1219400070426913, 14.479792324976769
+0.1, 2.2516903319699253, 11.393718537052418
+0.1, 3.4393987434937374, 10.89044828530881
+0.2, 1.1611573522430723, 7.4865004611487365
+0.2, 1.532195450047209, 8.865239895201835
+0.2, 2.2486907795298556, 7.453295854017284
+0.2, 4.391132845904151, 6.99756203728635
+0.2, 6.952020996207711, 6.299520889344798

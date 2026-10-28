@@ -1,0 +1,2 @@
+x axis - Te, units eV
+y axis - chi, fractional energy loss, units: dimensionless

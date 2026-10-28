@@ -1,0 +1,21 @@
+# N2O electronic excitation, swarm-derived sum; threshold 5.6 eV.
+# Source: Song et al. (2019), J. Phys. Chem. Ref. Data 48, 043104, Table XIII, last column.
+# Units: E_eV in eV; sigma in 1e-18 cm^2.
+E_eV,swarm_sum
+5.65,10.7
+5.70,17.8
+5.8,25.4
+6.0,29.7
+6.3,36.7
+6.6,41.1
+7.0,44.8
+7.4,46.7
+8.0,50.9
+9.0,57.6
+10,74
+15,185.7
+30,331.7
+50,333.3
+100,210.1
+500,45.2
+1000,22.9

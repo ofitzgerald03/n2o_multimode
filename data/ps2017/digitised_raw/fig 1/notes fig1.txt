@@ -1,0 +1,2 @@
+x axis - Te, units eV
+y axis - rate constants, m^3/s

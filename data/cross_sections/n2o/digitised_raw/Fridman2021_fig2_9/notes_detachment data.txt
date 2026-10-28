@@ -1,0 +1,3 @@
+digitised plot of fig 2.9 from fridman (2021) for electron impact detachment cross sections for O- and H-. original is log log plot
+y axis: cross section, units cm^2
+x axis: electron energy, eV

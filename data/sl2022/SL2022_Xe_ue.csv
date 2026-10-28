@@ -1,0 +1,14 @@
+# Xe exit velocity against mdot/P, per mass-flow group (0.1, 0.2 mg/s).
+# Source: Sheppard, A. J. and Little, J. M. (2022), "Performance Analysis of an Electron Cyclotron Resonance Thruster with Various Propellants", J. Propul. Power 38(6), 998-1008, doi:10.2514/1.B38698, Fig. 7c, digitised.
+# Units: mdot_mg_s in mg/s; mdot_over_P_ug_per_J in ug/J; ue_m_s in m/s.
+mdot_mg_s,mdot_over_P_ug_per_J,ue_m_s
+0.1, 0.5988576735771587, 13105.89250633249
+0.1, 0.7891881975740009, 12682.539450846234
+0.1, 1.1639337366175337, 13318.31280493963
+0.1, 2.257388032228017, 11752.382468983305
+0.1, 3.420471273464081, 10408.162965917596
+0.2, 1.1822171868136029, 12215.345723988656
+0.2, 1.544976022191658, 10573.777411972238
+0.2, 2.237699009134371, 10155.427205773878
+0.2, 4.204958641132098, 9803.216493580992
+0.2, 6.525831807588382, 8876.557215233843
